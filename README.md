@@ -1,19 +1,36 @@
-# Hi 👋, I'm Teodor
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Teodor&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Highschool%20student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-- 🌱 I'm currently learning:
-  - Java(robotics)
-  - Linux
-
-- ⚡ Fun fact: *I am dual booting Windows 11 and Nobara(will choose one soon)*
-
-- 👨‍💻 My academic achievements:  **[https://github.com/Teodor759/portofolio](https://github.com/Teodor759/academic-portfolio)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Teodor759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Teodor759" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Teodor759">
+    <img src="https://komarev.com/ghpvc/?username=Teodor759&label=Profile%20views&color=00FFFF&style=flat-square" alt="Teodor759's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+## 📌 About Me
+- I am still exploring the IT field, so my interests change frequently as I learn new things.
+- **OS:** Dual booting Windows 11 and Nobara(will choose one soon)
+- **Most notable achievements:**
+  * ROAI 2026 National Phase — 2nd place (gold medal)
+  * ONIA 2026 National Phase — 4th place (silver medal)
+
+
+## 🧠 My Focus Areas
+- AI/ML
+- Cybersecurity
+- Robotics
+- Competitive programming
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Teodor759">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Teodor759&theme=shades-of-purple&border_radius=10&cache_seconds=7200" />
+  </a>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=Teodor759&theme=shades-of-purple&hide_border=true&cache_seconds=86400" />
+</p>
+
+<h2 align="left">Languages:</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
@@ -26,7 +43,7 @@
   </a>
 </p>
 
-<h3 align="left">Tools & Frameworks:</h3>
+<h2 align="left">Tools & Frameworks:</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
@@ -67,9 +84,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teodor759&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Teodor759&theme=github_dark" />
 </p>
