@@ -7,8 +7,7 @@
 </p>
 
 ## 📌 About Me
-- I am still exploring the IT field, so my interests change frequently as I learn new things.
-- **OS:** Dual booting Windows 11 and Nobara(will choose one soon)
+- **OS:** Windows 11 and Nobara 44 KDE
 - **Most notable achievements:**
   * ROAI 2026 National Phase — 2nd place (gold medal)
   * ONIA 2026 National Phase — 4th place (silver medal)
@@ -16,10 +15,10 @@
 
 ## 🧠 My Focus Areas
 - AI/ML
-- Cybersecurity
-- Robotics
+- Cybersecurity (mostly OSINT and RE)
+- Robotics (part of [Thobor](https://www.instagram.com/thoborteam/))
 - Competitive programming
-
+- IoT / Embedded systems
 
 ## 📊 GitHub Stats
 <p align="center">
